@@ -1,6 +1,18 @@
+Here is the complete, refreshed **`README.md`** file incorporating your stats, active links, unified badges, and refined tech stack layout.
+
+---
+
+```markdown
 # 👋 Hi, I'm Zeeshan Farooq
 
 ### AI Engineer | Computer Vision Specialist | Deep Learning | Mobile App Developer
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanFarooq0312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zeeshan's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanFarooq0312&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
 
 ---
 
@@ -58,7 +70,8 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **LLM Fine-Tuning & Quantization**  
-![Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![LLaMA Factory](https://img.shields.io/badge/LLaMA%20Factory-000000?style=for-the-badge&logo=llama&logoColor=white)
 ![GGUF](https://img.shields.io/badge/GGUF%20Quantization-FF6B35?style=for-the-badge&logo=llama&logoColor=white)
 ![AWQ](https://img.shields.io/badge/AWQ%20Quantization-E63946?style=for-the-badge&logo=nvidia&logoColor=white)
 ![GPTQ](https://img.shields.io/badge/GPTQ-8338EC?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -70,51 +83,46 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP%20Protocol-6C3483?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**RAG & NLP**  
+**RAG & Vector Databases**  
 ![RAG](https://img.shields.io/badge/RAG%20Systems-2ECC71?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Keys%20%26%20Integration-F39C12?style=for-the-badge&logo=postman&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
-**Computer Vision**  
+**Computer Vision & Edge AI**  
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![DeepFace](https://img.shields.io/badge/DeepFace-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
+![NCNN](https://img.shields.io/badge/NCNN-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR%20%2F%20Tesseract-006400?style=for-the-badge&logo=python&logoColor=white)
 
 **Voice & Real-Time AI**  
 ![LiveKit](https://img.shields.io/badge/LiveKit-00B4D8?style=for-the-badge&logo=livekit&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
-**Vector Databases**  
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-
-**API Development & DevOps**  
+**API Development, Orchestration & DevOps**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Cloud & Infra**  
+**Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite / Drift](https://img.shields.io/badge/SQLite%20%2F%20Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Dev Tools**  
+**Dev Tools & Mobile**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-
+---
 
 ## 🎓 Education & Certifications
 
@@ -128,8 +136,19 @@
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ZeeshanFarooq4656@gmail.com)
+<div align="left">
+  <a href="mailto:ZeeshanFarooq4656@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ZeeshanFarooq0312" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zeeshanfarooq0312&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ZeeshanFarooq0312&icon=0&color=0" alt="Visitor Count" />
+</div>
+
+```
