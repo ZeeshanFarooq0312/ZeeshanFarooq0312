@@ -25,10 +25,10 @@
 
 ## 💼 Experience
 
-- 🏢 **AI Engineer** @ IOPTIME, Islamabad *(Jan 2026 – Present)*
-- 🏥 **Junior AI Engineer** @ MTBC CareCloud *(Jul 2025 – Dec 2025)* — Built AI Voice Physician with ~80% prescription accuracy
-- 📷 **Junior Computer Vision Engineer** @ ISSM.AI *(Mar 2025 – Jul 2025)* — Multi-camera person tracking & YOLO-based production monitoring
-- 🤖 **Junior AI Engineer** @ Dione, Rawalpindi *(Feb 2024 – Aug 2024)* — Fine-tuned YOLO models, built deep learning pipelines
+- 🏢 **AI Engineer** @ IOPTIME, Islamabad 
+- 🏥 **Junior AI Engineer** @ MTBC CareCloud  — Built AI Voice Physician with ~80% prescription accuracy
+- 📷 **Junior Computer Vision Engineer** @ ISSM.AI  — Multi-camera person tracking & YOLO-based production monitoring
+- 🤖 **Junior AI Engineer** @ Dione, Rawalpindi  — Fine-tuned YOLO models, built deep learning pipelines
 
 ---
 
